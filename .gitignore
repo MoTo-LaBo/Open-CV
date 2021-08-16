@@ -34,3 +34,5 @@ jupyterlab_git/labextension
 .DS_Store
 
 data
+requirements_bk.txt
+uninstall.txt
