@@ -12,6 +12,9 @@
     pip install --upgrade pip
 ### 5. jupyter lab install & 起動
     pip install jupyterlab
+    pip install jupytext
+    pip install jupyterlab_latex
+
 
     # jupyter lab 立ち上げ
     jupyter lab
